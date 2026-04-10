@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_fragment_receiver_history.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/fragment_receiver_history.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_fragment_browse_surplus.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/fragment_browse_surplus.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_layout_empty_donations.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/layout_empty_donations.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_activity_splash.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/menu_receiver_bottom_nav_menu.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/menu/receiver_bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_activity_donation_detail.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/activity_donation_detail.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_fragment_donor_home.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/fragment_donor_home.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_activity_register.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/menu_donor_bottom_nav_menu.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/menu/donor_bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_activity_email_verification.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/activity_email_verification.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_fragment_admin_users.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/fragment_admin_users.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/drawable_bg_badge_available.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/drawable/bg_badge_available.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_activity_about_us.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_activity_login.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_activity_welcome.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/menu_admin_bottom_nav_menu.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/menu/admin_bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_fragment_donor_history.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/fragment_donor_history.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_layout_empty_surplus.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/layout_empty_surplus.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_fragment_admin_donations.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/fragment_admin_donations.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_fragment_receiver_map.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/fragment_receiver_map.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_activity_main.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_fragment_admin_analytics.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/fragment_admin_analytics.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_item_admin_user.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/item_admin_user.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_item_donation_card.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/item_donation_card.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_fragment_donor_profile.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/fragment_donor_profile.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/drawable_bg_badge_claimed.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/drawable/bg_badge_claimed.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_activity_donor_dashboard.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/activity_donor_dashboard.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_activity_admin_dashboard.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.example.foodwastemanagement.app-debug-47:/layout_activity_receiver_dashboard.xml.flat",
+        "source": "com.example.foodwastemanagement.app-main-49:/layout/activity_receiver_dashboard.xml"
+    }
+]

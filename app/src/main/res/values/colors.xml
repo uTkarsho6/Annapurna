@@ -1,0 +1,15 @@
+<resources>
+    <!-- Digital Curator Aesthetic -->
+    <color name="primary">#0C0F0F</color> <!-- Black for primary actions -->
+    <color name="primary_variant">#212121</color>
+    
+    <color name="accent">#C9F158</color> <!-- Lime Green accent -->
+    <color name="background">#F6F6F6</color> <!-- Soft off-white -->
+    
+    <color name="white">#FFFFFF</color>
+    <color name="on_surface">#0C0F0F</color>
+    <color name="on_surface_variant">#666666</color>
+    
+    <color name="error">#FF3B30</color>
+    <color name="divider">#E0E0E0</color>
+</resources>
